@@ -1,4 +1,4 @@
-# SpamSms Most Powerful Bd Sms Bomber Only For Education Purpose..
+# SpamSms Most Effective Bd Sms Bomber Only For Education Purpose..
 
 - pkg update 
 - pkg upgrade
